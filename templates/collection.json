@@ -8,7 +8,8 @@
       "type": "collection-image",
       "settings": {
         "stars_text": "{{ collection.metafields.theme.collection_banner.value }}",
-        "stars_url": "cdn.shopify.com\/s\/files\/1\/0539\/3527\/6214\/files\/collectionbanner_264x360.gif?v=1660223394"
+        "collection_stars": "shopify:\/\/shop_images\/tp_nl_f63ea681-ab60-4574-aca8-f56cafb8f129.jpg",
+        "stars_url": "https:\/\/www.trustpilot.com\/"
       }
     },
     "main": {
@@ -24,12 +25,13 @@
         "desktop_grid": "4",
         "mobile_grid": "2",
         "collection_giff_enable": true,
-        "collection_banner_gif_link": "https:\/\/cdn.shopify.com\/s\/files\/1\/0539\/3527\/6214\/files\/collectionbanner_264x360.gif?v=1660223394",
-        "collection_banner_font_family": "anonymous_pro_n4",
-        "collection_banner_title": "Særtilbud",
-        "collection_banner_button_label": "KLIK HER",
-        "collection_banner_button_link": "shopify:\/\/collections\/demosalg",
-        "collection_enable_porcent_tag": true
+        "collection_banner": "shopify:\/\/shop_images\/collectionbanner_264x360_7b4a0d98-d262-486f-b229-9d704eefc97a.gif",
+        "collection_banner_gif_link": "",
+        "collection_banner_font_family": "poppins_n4",
+        "collection_banner_title": "speciale aanbieding",
+        "collection_banner_button_label": "Shop now",
+        "collection_banner_button_link": "shopify:\/\/collections\/all",
+        "collection_enable_porcent_tag": false
       }
     }
   },
