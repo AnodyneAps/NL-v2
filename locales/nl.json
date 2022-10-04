@@ -527,6 +527,21 @@
       "next": "Volgende (pijl naar rechts)",
       "prev": "Vorige (pijl naar links)",
       "close": "Sluiten (Esc)"
+    },
+    "tabs": {
+      "tab-description": " Beschrijving ",
+      "tab-medical": " Medisch geregistreerd ",
+      "tab-use": " Gebruik ",
+      "tab-manual": " Gebruiksaanwijzing ",
+      "tab-material": "  Materiaal ",
+      "tab-delivery": "  Levering & Retourneren "
+    },
+    "radios": {
+      "radio-one": "",
+      "radio-save-amount": "Bespaar"
+    },
+    "sizes": {
+      "choose-size-message": "Selecteer uw maat"
     }
   },
   "gift_cards": {

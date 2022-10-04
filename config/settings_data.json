@@ -724,7 +724,7 @@
       "header": {
         "type": "header",
         "settings": {
-          "main_menu_link_list": "main-menu",
+          "main_menu_link_list": "new-top-menu-desktop",
           "navigation_type": "right",
           "logo_link": true,
           "default_logo": "shopify:\/\/shop_images\/Anodyne_logo_default_medium_eb4da7e8-4124-4cb6-8774-20a6bc85994f.png",
