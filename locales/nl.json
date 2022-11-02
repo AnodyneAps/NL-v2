@@ -499,7 +499,8 @@
   },
   "products": {
     "general": {
-      "save_html": "Opslaan {{ saved_amount }}",
+      "save_html": "Opslaan",
+      "saved_amount_nums": "{{ saved_amount }}",
       "collection_return": "Terug naar {{ collection }}",
       "sale_price": "Verkoopprijs",
       "regular_price": "Normale prijs",
@@ -542,6 +543,12 @@
     },
     "sizes": {
       "choose-size-message": "Selecteer uw maat"
+    },
+    "counter": {
+      "days": "Dagen",
+      "hours": "Uren",
+      "minutes": "Minuten",
+      "seconds": "Seconden"
     }
   },
   "gift_cards": {
