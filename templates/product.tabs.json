@@ -30,8 +30,8 @@
         "text_alignment_mobile": "small--text-center",
         "show_animation_banner": true,
         "animation_banner_text": "<p>Gratis verzending voor aankopen boven €59,00<\/p>",
-        "show_discount_notification": false,
-        "discount_notification_text": "<p>Click here to save 10% extra on all products<\/p>",
+        "show_discount_notification": true,
+        "discount_notification_text": "<p>Koop gewoon kerstcadeaus - We verlengen het retourbeleid tot <strong>24 januari 2023<\/strong><\/p>",
         "discount_notification_link": ""
       }
     },
@@ -78,6 +78,7 @@
         "title": "Populaire producten",
         "subtitle": "",
         "section_style": "section-border",
+        "style__selector": "none",
         "rows": "2",
         "desktop_grid": "4",
         "mobile_grid": "2",

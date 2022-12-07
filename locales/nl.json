@@ -499,7 +499,7 @@
   },
   "products": {
     "general": {
-      "save_html": "Opslaan",
+      "save_html": "Bespaar",
       "saved_amount_nums": "{{ saved_amount }}",
       "collection_return": "Terug naar {{ collection }}",
       "sale_price": "Verkoopprijs",
